@@ -1,0 +1,7 @@
+Hi there!
+
+A quick note, all the photos used for the webpage are taken by me and not sourced out from the internet (except from the icons used, link source is stated on the html file).
+
+The webpage is also already deployed through Github. Please use this link: https://ilavapie23.github.io/
+
+Repo link is: https://github.com/ilavapie23/ilavapie23.github.io/tree/main
